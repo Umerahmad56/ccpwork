@@ -1,0 +1,4 @@
+actions-runner/
+node_modules/
+*.tar.gz
+_work/
